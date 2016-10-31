@@ -1,5 +1,8 @@
 package ann;
 
+/**
+ * @author Adam Mendenhall
+ */
 public interface Junction {
 	
 	/**

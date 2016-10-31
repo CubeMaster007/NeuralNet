@@ -9,6 +9,9 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.HashSet;
 
+/**
+ * @author Adam Mendenhall
+ */
 public abstract class Neuron extends Node {
 	
 	private double delta;

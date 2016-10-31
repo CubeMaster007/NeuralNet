@@ -8,6 +8,9 @@ import java.awt.Graphics;
 import java.awt.Point;
 import java.util.Collection;
 
+/**
+ * @author Adam Mendenhall
+ */
 public class NeuronHidden extends Neuron {
 	
 	public NeuronHidden(Collection<Neuron> inputNeurons) {

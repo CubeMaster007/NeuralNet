@@ -5,6 +5,9 @@ import static main.Constants.*;
 import java.awt.Graphics;
 import java.awt.Point;
 
+/**
+ * @author Adam Mendenhall
+ */
 public class NeuronStatic extends Neuron {
 	
 	public NeuronStatic() {

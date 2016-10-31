@@ -3,6 +3,9 @@ import ann.Layer;
 import ann.Network;
 import ann.NetworkWindow;
 
+/**
+ * @author Adam Mendenhall
+ */
 public class Main{
 	
 	public static void main(String[] args) {

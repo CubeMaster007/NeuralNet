@@ -6,6 +6,9 @@ import java.awt.Graphics;
 import java.awt.Point;
 import java.util.HashMap;
 
+/**
+ * @author Adam Mendenhall
+ */
 public class NeuronGrid extends Neuron {
 	
 	public NeuronGrid() {

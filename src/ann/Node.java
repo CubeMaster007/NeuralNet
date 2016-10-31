@@ -4,6 +4,9 @@ import java.awt.Point;
 
 import javax.swing.JComponent;
 
+/**
+ * @author Adam Mendenhall
+ */
 public abstract class Node implements Junction {
 	
 	protected Point pos;

@@ -16,6 +16,9 @@ import javax.swing.JPanel;
 
 import exceptions.ExceptionIndexOutOfBounds;
 
+/**
+ * @author Adam Mendenhall
+ */
 public class NetworkWindow extends JPanel implements WindowListener {
 	
 	private JFrame frame;

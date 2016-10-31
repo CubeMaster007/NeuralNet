@@ -17,6 +17,9 @@ import javax.swing.Icon;
 import javax.swing.ImageIcon;
 import javax.swing.border.Border;
 
+/**
+ * @author Adam Mendenhall
+ */
 public final class Constants {
 	
 	//DISPLAY CONSTANTS

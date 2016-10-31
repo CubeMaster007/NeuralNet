@@ -8,6 +8,9 @@ import static main.Constants.*;
 
 import exceptions.ExceptionIndexOutOfBounds;
 
+/**
+ * @author Adam Mendenhall
+ */
 public class Layer {
 	
 	LinkedList<Neuron> neurons;

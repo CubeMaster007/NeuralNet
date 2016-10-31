@@ -19,6 +19,9 @@ import java.util.LinkedList;
 import exceptions.ExceptionActionNotYetOccured;
 import exceptions.ExceptionIndexOutOfBounds;
 
+/**
+ * @author Adam Mendenhall
+ */
 public class Network {
 	
 	LinkedList<Layer> layers;
